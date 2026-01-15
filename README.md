@@ -1,10 +1,5 @@
-Things I’ve Built
+# Things I’ve Built
 
-> Games, tools, and web apps
-
----
-
-## 🎮 Games
 
 ### **Voice Quest**
 **Voice-Controlled 3D Platformer (Unity)**  
