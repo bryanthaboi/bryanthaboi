@@ -34,6 +34,9 @@ The Cracker Barrel peg game as a web app and iOS game. One peg left or you lose.
 
 ## Web & Tools
 
+🟥 **[Package Script Bar](https://marketplace.visualstudio.com/items?itemName=bryanthaboi.package-script-bar)**  
+Run root package.json scripts conveniently from a streamlined toolbar in the bottom left panel. **This is a VS Code Extension, so it works in every fork of VS Code, i.e. Cursor, etc..**
+
 🧩 **[Best JSON Formatter](https://bestjsonformatter.net)**  
 Paste broken JSON. Get valid, formatted JSON back. AI fixes the mess.
 
