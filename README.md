@@ -21,6 +21,9 @@
 
 ## Games
 
+🃏 **[Boya Coya](https://store.steampowered.com/app/4509030/Boya_Coya/)**  
+A fast, strategic two-player trick-taking card game.
+
 🍌 **[Voice Quest](https://store.steampowered.com/app/2511550/Voice_Quest/)**  
 Voice-controlled 3D platformer. Your mic is the controller. Say jump, you jump.
 
@@ -30,9 +33,18 @@ NBA Jam like roguelite chaos. Draft random teams, gamble between quarters, stack
 🎯 **[OPEGA.LIVE](https://opega.live)**  
 The Cracker Barrel peg game as a web app and iOS game. One peg left or you lose.
 
+🎮 **[Bois Club Games](https://boisclub.games)**  
+Game studio website and blog.
+
 ---
 
 ## Web & Tools
+
+🗂️ **[dockyard-mcp](https://github.com/bryanthaboi/dockyard)**  
+Local-first MCP work-order server, CLI, and dashboard.
+
+📖 **[readthey](https://github.com/bryanthaboi/readthey)**  
+Lightweight Markdown viewer with Mermaid — opens in your browser.
 
 🟥 **[Package Script Bar](https://marketplace.visualstudio.com/items?itemName=bryanthaboi.package-script-bar)**  
 Run root package.json scripts conveniently from a streamlined toolbar in the bottom left panel. **This is a VS Code Extension, so it works in every fork of VS Code, i.e. Cursor, etc..**
