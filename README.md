@@ -38,16 +38,32 @@ Game studio website and blog.
 
 ---
 
-## Web & Tools
+## MCPs & Dev Tools
 
 🗂️ **[dockyard-mcp](https://github.com/bryanthaboi/dockyard)**  
 Local-first MCP work-order server, CLI, and dashboard.
 
+🗣️ **[AOL — Agents On Line](https://github.com/bryanthaboi/subagent-chatroom-mcp)**  
+MCP server + desktop-style web UI for coordinating parallel sub-agents — shared room, file claims, waits, DMs, and a human observer Q&A loop.
+
 📖 **[readthey](https://github.com/bryanthaboi/readthey)**  
 Lightweight Markdown viewer with Mermaid — opens in your browser.
 
+## Extensions
+
 🟥 **[Package Script Bar](https://marketplace.visualstudio.com/items?itemName=bryanthaboi.package-script-bar)**  
-Run root package.json scripts conveniently from a streamlined toolbar in the bottom left panel. **This is a VS Code Extension, so it works in every fork of VS Code, i.e. Cursor, etc..**
+Run root package.json scripts from a streamlined toolbar in the bottom left panel. **VS Code extension, works in every fork (Cursor, etc.).**
+
+📊 **[Better YouTube Studio](https://github.com/bryanthaboi/boisclubstudio)**  
+Chrome extension that exposes hidden YouTube analytics with a modern UI.
+
+💬 **[Better Twitch Chat (VS Code)](https://github.com/bryanthaboi/better-twitch-chat-vscode)**  
+Twitch chat inside your editor. Because focus is overrated.
+
+🎵 **[Video → Audio Converter](https://github.com/bryanthaboi/video-to-audio-converter)**  
+Right-click any video on Windows and convert it to MP3 or WAV. FFmpeg under the hood.
+
+## Web & Tools
 
 🧩 **[Best JSON Formatter](https://bestjsonformatter.net)**  
 Paste broken JSON. Get valid, formatted JSON back. AI fixes the mess.
@@ -58,14 +74,29 @@ Turn Trello exports into clean JSON, CSV, or Markdown.
 🎨 **[Imperfect Logos](https://bryanthaboi.github.io/imperfectlogos/)**  
 Type a stock ticker. Get an SVG logo. Done.
 
-📊 **[Better YouTube Studio](https://github.com/bryanthaboi/boisclubstudio)**  
-Chrome extension that exposes hidden YouTube analytics with a modern UI.
+🃏 **[cardsheetmaker](https://github.com/bryanthaboi/cardsheetmaker)**  
+Python + Pillow sprite-sheet generator for Boya Coya card art — builds per-suit sheets and tinted suit icons from a `suits.json`.
 
-💬 **[Better Twitch Chat (VS Code)](https://github.com/bryanthaboi/better-twitch-chat-vscode)**  
-Twitch chat inside your editor. Because focus is overrated.
+⏱️ **[startclock](https://github.com/bryanthaboi/startclock)**  
+Slack slash-command time tracker — `/startclock` → Convex → logs to Notion on `/stopclock`.
 
-🎵 **[Video → Audio Converter](https://github.com/bryanthaboi/video-to-audio-converter)**  
-Right-click any video on Windows and convert it to MP3 or WAV. FFmpeg under the hood.
+🎯 **[zeroviewbingohelper](https://github.com/bryanthaboi/zeroviewbingohelper)**  
+YouTube Recycle Bin Bingo helper — one click for a random 0-view search string.
+
+🕒 **[slippery-clock](https://seelen.io/resources/W3GVMcWFQcG09manZd4YyQ/slippery-clock-fixed)**  
+Seelen-UI desktop clock widget that grows when you hover it — small and slippery, but bigger on demand.
+
+🔌 **[boisclubsocketserver](https://github.com/bryanthaboi/boisclubsocketserver)**  
+Node + Express WebSocket server with a real-time dashboard, built to back Vercel-hosted apps that can't host sockets themselves.
+
+📺 **[tiktok-subscription-notification](https://github.com/bryanthaboi/tiktok-subscription-notification)**  
+OBS/SLOBS/TTLS browser-source workaround for TikTok sub alerts — sound, animation, confetti.
+
+😈 **[doom](https://github.com/bryanthaboi/doom)**  
+DOOM in a browser tab.
+
+🟦 **[oldyahoo](https://github.com/bryanthaboi/oldyahoo)**  
+OG yahoo.com, downloadable.
 
 ---
 
