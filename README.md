@@ -96,7 +96,7 @@ OBS/SLOBS/TTLS browser-source workaround for TikTok sub alerts — sound, animat
 DOOM in a browser tab.
 
 🟦 **[oldyahoo](https://github.com/bryanthaboi/oldyahoo)**  
-OG yahoo.com, downloadable.
+OG yahoo.com recreated for no reason honestly.
 
 ---
 
