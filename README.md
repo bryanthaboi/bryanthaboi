@@ -89,6 +89,9 @@ Seelen-UI desktop clock widget that grows when you hover it — small and slippe
 🔌 **[boisclubsocketserver](https://github.com/bryanthaboi/boisclubsocketserver)**  
 Node + Express WebSocket server with a real-time dashboard, built to back Vercel-hosted apps that can't host sockets themselves.
 
+🔆 **[displayathon](https://github.com/bryanthaboi/iledeyes-SZKUZMA-display-api)**  
+Two-process driver for the iledeyes 96×16 Bluetooth LED panel (RGB332): launchd FastAPI service plus standalone macOS app — solid colors, fades, GIFs, scrolling text, LAN REST API.
+
 📺 **[tiktok-subscription-notification](https://github.com/bryanthaboi/tiktok-subscription-notification)**  
 OBS/SLOBS/TTLS browser-source workaround for TikTok sub alerts — sound, animation, confetti.
 
