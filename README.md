@@ -95,6 +95,12 @@ Two-process driver for the iledeyes 96×16 Bluetooth LED panel (RGB332): launchd
 📺 **[tiktok-subscription-notification](https://github.com/bryanthaboi/tiktok-subscription-notification)**  
 OBS/SLOBS/TTLS browser-source workaround for TikTok sub alerts — sound, animation, confetti.
 
+🛟 **[BCCST](https://github.com/bryanthaboi/BCCST)**  
+Bois Club Custom Services Tracker — macOS menu bar app for homemade launchd services with health pings and Pushcut alerts.
+
+💡 **[bois-club-light-controller](https://github.com/bryanthaboi/bois-club-light-controller)**  
+Control Neewer MS60C and Govee lights via UI, API, or Elgato Stream Deck.
+
 😈 **[doom](https://github.com/bryanthaboi/doom)**  
 DOOM in a browser tab.
 
