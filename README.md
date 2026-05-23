@@ -80,9 +80,6 @@ Python + Pillow sprite-sheet generator for Boya Coya card art — builds per-sui
 ⏱️ **[startclock](https://github.com/bryanthaboi/startclock)**  
 Slack slash-command time tracker — `/startclock` → Convex → logs to Notion on `/stopclock`.
 
-🎯 **[zeroviewbingohelper](https://github.com/bryanthaboi/zeroviewbingohelper)**  
-YouTube Recycle Bin Bingo helper — one click for a random 0-view search string.
-
 🕒 **[slippery-clock](https://seelen.io/resources/W3GVMcWFQcG09manZd4YyQ/slippery-clock-fixed)**  
 Seelen-UI desktop clock widget that grows when you hover it — small and slippery, but bigger on demand.
 
@@ -101,11 +98,6 @@ Bois Club Custom Services Tracker — macOS menu bar app for homemade launchd se
 💡 **[bois-club-light-controller](https://github.com/bryanthaboi/bois-club-light-controller)**  
 Control Neewer MS60C and Govee lights via UI, API, or Elgato Stream Deck.
 
-😈 **[doom](https://github.com/bryanthaboi/doom)**  
-DOOM in a browser tab.
-
-🟦 **[oldyahoo](https://github.com/bryanthaboi/oldyahoo)**  
-OG yahoo.com recreated for no reason honestly.
 
 ---
 
@@ -123,4 +115,3 @@ OG yahoo.com recreated for no reason honestly.
 > Build fast. Break things. Fix them. Ship again.
 
 More coming. Always.  
-Bois never stop shipping.
