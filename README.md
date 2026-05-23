@@ -98,15 +98,8 @@ Bois Club Custom Services Tracker — macOS menu bar app for homemade launchd se
 💡 **[bois-club-light-controller](https://github.com/bryanthaboi/bois-club-light-controller)**  
 Control Neewer MS60C and Govee lights via UI, API, or Elgato Stream Deck.
 
-
----
-
-## What I’m Doing
-
-- Shipping indie games on Steam  
-- Building tiny tools that punch above their weight  
-- Mixing AI into everything until it breaks  
-- Turning annoying workflows into one-click buttons  
+📥 **[Bois Club YouTube Downloader](https://github.com/bryanthaboi/Bois-Club-Youtube-Downloader)**  
+Simple YouTube Downloader — paste a URL, pick audio or video, hit download. Packaged for Mac + Windows. No set up, just go to releases and download for Mac or Windows.
 
 ---
 
