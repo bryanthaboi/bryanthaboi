@@ -40,7 +40,7 @@ Game studio website and blog.
 
 ## MCPs & Dev Tools
 
-🗂️ **[dockyard-mcp](https://github.com/bryanthaboi/dockyard)**  
+🗂️ **[Dockyard MCP](https://github.com/bryanthaboi/dockyard)**  
 Local-first MCP work-order server, CLI, and dashboard.
 
 🗣️ **[AOL — Agents On Line](https://github.com/bryanthaboi/subagent-chatroom-mcp)**  
@@ -74,31 +74,31 @@ Turn Trello exports into clean JSON, CSV, or Markdown.
 🎨 **[Imperfect Logos](https://bryanthaboi.github.io/imperfectlogos/)**  
 Type a stock ticker. Get an SVG logo. Done.
 
-🃏 **[cardsheetmaker](https://github.com/bryanthaboi/cardsheetmaker)**  
+🃏 **[Tool for Creating Sprite Sheets for Boya Coya](https://github.com/bryanthaboi/cardsheetmaker)**  
 Python + Pillow sprite-sheet generator for Boya Coya card art — builds per-suit sheets and tinted suit icons from a `suits.json`.
 
-⏱️ **[startclock](https://github.com/bryanthaboi/startclock)**  
+⏱️ **[Start Clock slack command](https://github.com/bryanthaboi/startclock)**  
 Slack slash-command time tracker — `/startclock` → Convex → logs to Notion on `/stopclock`.
 
-🕒 **[slippery-clock](https://seelen.io/resources/W3GVMcWFQcG09manZd4YyQ/slippery-clock-fixed)**  
+🕒 **[Slippery Clock](https://seelen.io/resources/W3GVMcWFQcG09manZd4YyQ/slippery-clock-fixed)**  
 Seelen-UI desktop clock widget that grows when you hover it — small and slippery, but bigger on demand.
 
-🔌 **[boisclubsocketserver](https://github.com/bryanthaboi/boisclubsocketserver)**  
+🔌 **[Deployable Socket Server](https://github.com/bryanthaboi/boisclubsocketserver)**  
 Node + Express WebSocket server with a real-time dashboard, built to back Vercel-hosted apps that can't host sockets themselves.
 
-🔆 **[displayathon](https://github.com/bryanthaboi/iledeyes-SZKUZMA-display-api)**  
+🔆 **[Displayathon](https://github.com/bryanthaboi/iledeyes-SZKUZMA-display-api)**  
 Two-process driver for the iledeyes 96×16 Bluetooth LED panel (RGB332): launchd FastAPI service plus standalone macOS app — solid colors, fades, GIFs, scrolling text, LAN REST API.
 
-📺 **[tiktok-subscription-notification](https://github.com/bryanthaboi/tiktok-subscription-notification)**  
+📺 **[TikTok Sub Notifications](https://github.com/bryanthaboi/tiktok-subscription-notification)**  
 OBS/SLOBS/TTLS browser-source workaround for TikTok sub alerts — sound, animation, confetti.
 
-🛟 **[BCCST](https://github.com/bryanthaboi/BCCST)**  
+🛟 **[Custom Services Tracker](https://github.com/bryanthaboi/BCCST)**  
 Bois Club Custom Services Tracker — macOS menu bar app for homemade launchd services with health pings and Pushcut alerts.
 
-💡 **[bois-club-light-controller](https://github.com/bryanthaboi/bois-club-light-controller)**  
+💡 **[Neewer / Govee Light Controller](https://github.com/bryanthaboi/bois-club-light-controller)**  
 Control Neewer MS60C and Govee lights via UI, API, or Elgato Stream Deck.
 
-📥 **[Bois Club YouTube Downloader](https://github.com/bryanthaboi/Bois-Club-Youtube-Downloader)**  
+📥 **[YouTube Downloader](https://github.com/bryanthaboi/Bois-Club-Youtube-Downloader)**  
 Simple YouTube Downloader — paste a URL, pick audio or video, hit download. Packaged for Mac + Windows. No set up, just go to releases and download for Mac or Windows.
 
 ---
