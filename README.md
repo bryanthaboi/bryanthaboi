@@ -1,6 +1,6 @@
 # Hi, I’m Bryan 👋
 
-📍 **Ohio** | 🎮 **Game dev + web builder** | 🧠 **AI-powered tinkerer**
+📍 **Ohio** | 🎮 **Game dev + web builder** 
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
